@@ -1,0 +1,49 @@
+capital = 375
+
+#OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 10
+		}
+
+		fascism = {
+			popularity = 80
+		}
+		
+		communism = {
+			popularity = 10
+		}
+		
+		neutrality = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "George Lincoln Rockwell"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "GLR.dds"
+	ideology = nazism
+	traits = {
+		dictator
+	}
+
+}
+
