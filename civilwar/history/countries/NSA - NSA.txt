@@ -1,6 +1,6 @@
 capital = 375
 
-#OOB = "ALB_1936"
+OOB = "NSA_1936"
 
 set_technology = {
 	infantry_weapons = 1
