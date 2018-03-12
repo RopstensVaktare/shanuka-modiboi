@@ -1,3 +1,4 @@
+PSA = "countries/PSA.txt"
 NSA = "countries/NSA.txt"
 EOA = "countries/EOA.txt"
 ASS = "countries/ASS.txt"
